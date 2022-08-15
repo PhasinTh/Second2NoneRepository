@@ -21,3 +21,9 @@
 
 ## Local binary exploitation
 - `https://gtfobins.github.io/`
+
+## Payload Anything
+- `https://github.com/swisskyrepo/PayloadsAllTheThings`
+
+## Hashcrack
+- `https://crackstation.net/`
