@@ -26,3 +26,11 @@
 ### MS Office documents analyzer
 #### Tools
 - `oletools` (https://github.com/decalage2/oletools)
+
+
+
+## Tips & Tricks
+
+
+### Wireshark
+- `secrets.log` file can view the `TLS` content in plain text by config under `Edit` -> `Preferences` -> `Protocols` -> `TLS` in `(Pre)-Master-Secret log filename` field.
