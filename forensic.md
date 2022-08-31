@@ -1,5 +1,8 @@
 # Forensic
 
+## hex editor (online)
+https://hexed.it/
+
 ## Disk forensic
 ### Tools
 - `Autopsy` (https://www.autopsy.com/)
